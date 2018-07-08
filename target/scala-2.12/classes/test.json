@@ -1,0 +1,16 @@
+[
+ "null",
+ {
+  "type" : "record",
+  "name" : "ConvDate",
+  "namespace" : "DealsLoans_DealsLoansTrancheContent.DealsLoans_DealsLoansTrancheContent.Tranches.Tranche",
+  "fields" : [ 
+	  {
+		"name" : "v",
+		"type" : [ "null", "long" ],
+		"doc" : "date",
+                "namespace":"dddddd"
+	  } 
+  ]
+ } 
+]
