@@ -1,0 +1,36 @@
+{
+  "name": "AppMarginsText",
+  "type": ["null",
+    {
+      "type": "record",
+      "name": "AppMarginsText",
+      "namespace": "DealsLoans_DealsLoansTrancheContent.DealsLoans_DealsLoansTrancheContent.Tranches.Tranche.AllMargins.AllMargin",
+      "fields": [{
+        "name": "a",
+        "type": ["null",
+          {
+            "type": "record",
+            "name": "a",
+            "namespace": "DealsLoans_DealsLoansTrancheContent.DealsLoans_DealsLoansTrancheContent.Tranches.Tranche.AllMargins.AllMargin.AppMarginsText",
+            "fields": [{
+              "name": "sdcLanguageCode",
+              "type": ["null",
+                "long"],
+              "doc": "long"
+            },
+              {
+                "name": "languageId",
+                "type": ["null",
+                  "long"],
+                "doc": "long"
+              }]
+          }]
+      },
+        {
+          "name": "v",
+          "type": ["null",
+            "string"],
+          "doc": "string"
+        }]
+    }]
+}

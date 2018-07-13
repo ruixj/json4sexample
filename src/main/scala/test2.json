@@ -1,0 +1,21 @@
+[ "null", {
+  "type" : "record",
+  "name" : "AllFees",
+  "namespace" : "DealsLoans_DealsLoansTrancheContent.DealsLoans_DealsLoansTrancheContent.Tranches.Tranche",
+  "fields" : [ {
+    "name" : "AllFeeCode",
+    "type" : [ "null", {
+      "type" : "array",
+      "items" : {
+        "type" : "record",
+        "name" : "AllFeeCode",
+        "namespace" : "DealsLoans_DealsLoansTrancheContent.DealsLoans_DealsLoansTrancheContent.Tranches.Tranche.AllFees",
+        "fields" : [ {
+          "name" : "v",
+          "type" : [ "null", "string" ],
+          "doc" : "string"
+        } ]
+      }
+    } ]
+  } ]
+} ]
